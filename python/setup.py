@@ -3,7 +3,7 @@ from setuptools import setup
 
 setup(
     name='{{ repo_name }}',
-    author="{{ author}}",
+    author="{{ author }}",
     author_email="{{ author_email }}",
     version='0.1.0',
     url="https://github.com/{{ github_username }}/{{ repo_name}}",
