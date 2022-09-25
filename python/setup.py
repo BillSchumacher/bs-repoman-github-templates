@@ -6,7 +6,7 @@ setup(
     author="{{ author }}",
     author_email="{{ author_email }}",
     version='0.1.0',
-    url="https://github.com/{{ github_username }}/{{ repo_name}}",
+    url="https://github.com/{{ github_username }}/{{ repo_name }}",
     license="MIT",
     description="My new package.",
     long_description=open("README.md").read() if exists("README.md") else "",
